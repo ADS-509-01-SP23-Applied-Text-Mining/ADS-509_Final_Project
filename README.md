@@ -1,4 +1,4 @@
-# ADS-509_Final_Project: WORKING TITLE: Classifying Scholarly Articles Based on Keywords
+# ADS-509_Final_Project: Categorizing Journal Articles
 
 This project is a part of the ADS-509 (Text Mining) course in the Applied Data Science Program at the University of San Diego. 
 
@@ -20,6 +20,7 @@ A few examples are:
 *	Tokenization
 *	API	
 *	Data Visualization
+  * WordCloud
 
 
 ### Technologies
