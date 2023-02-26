@@ -26,11 +26,11 @@ A few examples are:
 *	Data Visualization
   * WordCloud
 * Topic Modeling
-  * NMF
-  * LDA
-  * LSA
+  * NMF - Nonnegative Matrix Factorization 
+  * LDA - Latent Dirichlet Allocation
+  * LSA - Latent Semantic Analysis
 * Classification Modeling
-  * Logistic Regression
+  * Multinomial Logistic Regression
   * Multinomial Naive Bayes
 * AUC ROC Curve
 
